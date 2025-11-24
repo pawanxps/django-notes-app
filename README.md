@@ -6,6 +6,7 @@ This is a simple notes app built with React and Django.
 2. Node.js
 3. React
 4. New Repo Create
+5. cccc
 
 ## Installation new feature added
 1. Clone the repository
